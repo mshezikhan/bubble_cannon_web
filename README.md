@@ -4,9 +4,9 @@ It's a fun and fast-paced game ⚡, where a target number (target pressure) appe
 <hr>
 
 Team: <br>
-Concept: Shikeb Khan <br>
-Programmer: Shikeb Khan <br>
-Game Designer/2D Artist: Shikeb Khan <br>
+Concept: Shezi Khan <br>
+Programmer: Shezi Khan <br>
+Game Designer/2D Artist: Shezi Khan <br>
 
 Technologies: <br>
 Unity 3D Engine<br>
